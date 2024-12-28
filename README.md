@@ -16,6 +16,10 @@ cd star-wars
 
 npm install
 
+# Env support
+
+Rename env.example to .env or use the command: mv env.example .env
+
 # Start the development server
 
 npm start
